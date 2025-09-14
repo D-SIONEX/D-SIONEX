@@ -1,8 +1,10 @@
-# 💫 About Me:
-I am 28 years old and my place of birth is Berlin, Germany. <br>Over the next two years, I will complete a training programme <br>to become a programmer. I am currently learning the <br>following scripting and programming languages: <br>HTML, CSS, PHP, JavaScript, JAVA and C, C++, C#, as well as <br>how to use .NET.<br><br>I'm passionate about music, good food and nature.
+# 💫 Über mich:
+Ich bin Ralf, 28 Jahre jung und gebürtiger Berliner! Über den Zeitraumraum von 2 Jahren erlerne ich in meiner Umschulung den Beruf des Anwendungsentwicklers, im Bereich Fachinformatik. Hierbei lerne ich HTML, CSS, PHP, JavaScript, SQL, JAVA. C, C++ und C#, sowie den Umgang mit .NET lerne ich vor allem privat. Darüber hinaus arbeite ich mit Intellij, Visual Studio Code, Android Studio sowie Unity Engine, Blender, KiCad und vieler weiterer Anwendungen und baue mir aktuell meinen ersten eigenen Computer zusammen, basierend auf einer AMD- Ryzen 7 CPU. 
 
+Meine Reise begann etwa 2013, als ich durch die Scriptingsprache "PAWN" (C-ähnlich) sowie HTML und CSS die ersten Einblicke bekam. 
+Ich höre sehr gerne Musik, spiele akkustik Gitarre, liebe gutes Essen und die Natur sowie das Handwerk. 
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Xaphis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ralf-degener) 
 
 # 💻 Tech Stack:
