@@ -1,11 +1,11 @@
-## 💫 About Me <|> Über mich (English):
+## 💫 About Me <|> Über mich:
 
 I'm Ralf, 28 years young and a native Berliner! Over the course of two years, I am retraining to become an application developer in the field of IT. I am learning HTML, CSS, PHP, JavaScript, SQL and JAVA. I am also learning the development languages C, C++ and C#, as well as how to use .NET, mainly on my own time. In addition, I work with Intellij, Visual Studio Code, Android Studio, Unity Engine, Blender, KiCad and many other applications, and am currently building my first own computer based on the AM5 platform. 
 
 My ‘journey’ began around 2013, when I gained my first insights through the scripting language ‘PAWN’ (C-like) as well as HTML, CSS and MySQL. 
 I enjoy listening to music, playing acoustic guitar, good food, nature and crafts.
 
-## 💫 About Me <|> Über mich (English): German/Deutsch:
+## 💫 About Me <|> Über mich: 
 Ich bin Ralf, 28 Jahre jung und gebürtiger Berliner! Über den Zeitraum von 2 Jahren erlerne ich in meiner Umschulung den Beruf des Anwendungsentwicklers, im Bereich Fachinformatik. Hierbei lerne ich HTML, CSS, PHP, JavaScript, SQL, JAVA. Die Entwicklungssprachen C, C++ und C#, sowie den Umgang mit .NET lerne ich vor allem privat. Darüber hinaus arbeite ich mit Intellij, Visual Studio Code, Android Studio sowie Unity Engine, Blender, KiCad und vieler weiterer Anwendungen und baue mir aktuell meinen ersten eigenen Computer zusammen, basierend auf der AM5 Plattform. 
 
 Meine "Reise" begann etwa 2013, als ich durch die Scriptingsprache "PAWN" (C-ähnlich) sowie HTML, CSS sowie MySQL die ersten Einblicke bekam. 
