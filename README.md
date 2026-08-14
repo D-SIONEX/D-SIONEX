@@ -1,7 +1,7 @@
 ## 💫 About Me <|> Über mich: 
 Ich bin Ralf, 29 Jahre jung ehemaliger Omnibusfahrer und angehender Fachinformatiker mit dem Schwerpunkt Anwendungsentwicklung aus Berlin. Aktuell befasse ich mich mit der Entwicklung von Android Apps sowie Anwendungen die auf Electron basieren. Die Entwicklungssprachen C, C++, PHP sowie viele weitere vertiefe ich aktuell im privaten Umfeld. Darüber hinaus arbeite ich vorrangig mit Visual Studio Code, Android Studio sowie Unreal Engine, aber auch Anwendungen wie Intellij, Blender, KiCad und viele weitere sind in meinem Besitz. Besonders hervorheben möchte ich mein Interesse an der Entwicklung eines LLM (hauptsächlich zu eigenen Trainingszwecken), dem geübten Umgang mit künstlicher Intelligenz und Kryptografie. Das Thema KI betrifft uns alle enorm, weshalb ich inzwischen für den Bereich Webentwicklung zu einem großen Teil auf KI setze und meine Prompting-Skills von Tag zu Tag ausbaue. 
 
-# ~"KI wird nicht das Ende der Softwareentwicklung sein, sondern ein professionelles Werkzeug für EntwicklerInnen! Das was für den Tischler die Kreissäge ist, wird für uns die KI sein!"
+### ~"KI wird nicht das Ende der Softwareentwicklung sein, sondern ein professionelles Werkzeug für EntwicklerInnen! Das was für den Tischler die Kreissäge ist, wird für uns die KI sein!"
 
 Meine "Reise" begann etwa 2013, als ich durch die Scriptingsprache "PAWN" (C-ähnlich) sowie HTML, CSS sowie MySQL die ersten Einblicke bekam. 
 Ich höre sehr gerne Musik, spiele Akkustik Gitarre, liebe gutes Essen und die Natur sowie das Handwerk - ein typischer Allrounder eben.
