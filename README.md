@@ -1,32 +1,12 @@
 ## 💫 About Me <|> Über mich: 
-Ich bin Ralf, 29 Jahre jung ehemaliger Omnibusfahrer und angehender Fachinformatiker mit dem Schwerpunkt Anwendungsentwicklung aus Berlin. Aktuell befasse ich mich mit der Entwicklung von Android Apps sowie Anwendungen die auf Electron basieren. Die Entwicklungssprachen C, C++, PHP sowie viele weitere vertiefe ich aktuell im privaten Umfeld. Darüber hinaus arbeite ich vorrangig mit Visual Studio Code, Android Studio sowie Unreal Engine, aber auch Anwendungen wie Intellij, Blender, KiCad und viele weitere sind in meinem Besitz. Besonders hervorheben möchte ich mein Interesse an der Entwicklung eines LLM (hauptsächlich zu eigenen Trainingszwecken), dem geübten Umgang mit künstlicher Intelligenz und Kryptografie.
+Ich bin Ralf, 29 Jahre jung ehemaliger Omnibusfahrer und angehender Fachinformatiker mit dem Schwerpunkt Anwendungsentwicklung aus Berlin. Aktuell befasse ich mich mit der Entwicklung von Android Apps sowie Anwendungen die auf Electron basieren. Die Entwicklungssprachen C, C++, PHP sowie viele weitere vertiefe ich aktuell im privaten Umfeld. Darüber hinaus arbeite ich vorrangig mit Visual Studio Code, Android Studio sowie Unreal Engine, aber auch Anwendungen wie Intellij, Blender, KiCad und viele weitere sind in meinem Besitz. Besonders hervorheben möchte ich mein Interesse an der Entwicklung eines LLM (hauptsächlich zu eigenen Trainingszwecken), dem geübten Umgang mit künstlicher Intelligenz und Kryptografie. Das Thema KI betrifft uns alle enorm, weshalb ich inzwischen für den Bereich Webentwicklung zu einem großen Teil auf KI setze und meine Prompting-Skills von Tag zu Tag ausbaue. "KI wird nicht das Ende der Softwareentwicklung sein, sondern ein professionelles Werkzeug für EntwicklerInnen! Das was für den Tischler die Kreissäge ist, wird für uns die KI sein!"
 
 Meine "Reise" begann etwa 2013, als ich durch die Scriptingsprache "PAWN" (C-ähnlich) sowie HTML, CSS sowie MySQL die ersten Einblicke bekam. 
-Ich höre sehr gerne Musik, spiele Akkustik Gitarre, liebe gutes Essen und die Natur sowie das Handwerk.
-Nebenbei versuche ich mich langsam in einen geregelten Alltag zurückzukämpfen, mein Übergewicht zu kontrollieren und meine alte sportliche Figur zu neuem Glanz zu verhelfen.
+Ich höre sehr gerne Musik, spiele Akkustik Gitarre, liebe gutes Essen und die Natur sowie das Handwerk - ein typischer Allrounder eben.
+Nebenbei versuche ich mich langsam in einen geregelten Alltag zurückzukämpfen und meine alte sportliche Figur zu neuem Glanz zu verhelfen.
 
 Ich bin nicht nur an einfacher Softwareentwicklung interessiert, sondern auch an der Hardware dahinter. Das Thema Sicherheit nimmt hierbei für mich einen enorm hohen Stellenwert ein. Von der Idee, über eine gründliche Planung, Dokumentation bis hin zum Feedback meiner zwei Katzen die mich durch den Alltag im Home Office begleiten, lege ich viel Wert auf die kleinen - manchmal noch so unscheinbaren - Details.
 
-Mein aktuelles Setup:
-1 Schreibtisch (80x 140 cm) "FlexiSpot"
-1 Schreibtischlampe "Broadwing"
-1 Dual-Monitorhalterung von Huanuo
-2 Monitore (G65B 27" Curved) von Samsung
-1 Unterlage (etwa 60x 120 cm) NYFTER  X Mad Gaming
-1 Tastatur (Gaming K55 RGB) von Corsair
-1 Maus (G 502 HERO) von Logitech
-Computer:
-Gehäuse von Lian Li (DAN Cases A3 "Wood Edition")
-Mainboard von ASUS Prime B840M-A-CSM
-Netzteil 850W von be quiet! Pure Power 13M
-M.2 SSD (NVMe) von Samsung, 2 TB 990 Pro
-Gehäuselüfter (5 Stk.) von Arctic Liquid Freezer 120mm
-Prozessor (CPU) AMD Ryzen 7 8700F
-Grafikkarte (GPU) ASUS Radeon RX7600 8GB
-CPU-Kühlung be quiet! Pure Rock Slim 3
-Betriebssystem: Windows 11 Pro
-
-Ich habe mir zum Ziel gesetzt in Zukunft auch Content auf Social Media zu produzieren! Weitere Informationen folgen.
 
 ## 🌐 Social Media <|> Soziale Medien:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Xaphis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ralf-degener) 
